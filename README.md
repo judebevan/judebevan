@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64f803895ce9f4ca58967fa1?variant=dark)](https://roadmap.sh)
+
+<a href="https://app.daily.dev/judebevan"><img src="https://api.daily.dev/devcards/31a22e700e5b47dd988dfc016afdab02.png?r=z67" width="400" alt="Jude Maria Bevan's Dev Card"/></a>
 <!--
 **judebevan/judebevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
