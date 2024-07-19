@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<a href="https://app.daily.dev/judebevan"><img src="https://api.daily.dev/devcards/31a22e700e5b47dd988dfc016afdab02.png?r=z67" width="400" alt="Jude Maria Bevan's Dev Card"/></a>
+<a href="https://app.daily.dev/judebevan"><img src="https://api.daily.dev/devcards/v2/IknIbkhSSLfD3R4jFiHo4.png?type=default&r=puy" width="356" alt="Jude Maria Bevan's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/judebevan"><img src="https://api.daily.dev/devcards/31a22e700e5b47dd988dfc016afdab02.png?r=z67" width="400" alt="Jude Maria Bevan's Dev Card"/></a> -->
 <!--
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64f803895ce9f4ca58967fa1?variant=dark)](https://roadmap.sh)
 
